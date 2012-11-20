@@ -1,4 +1,6 @@
 test_move_base
 ==============
 
-simple node to change the heading angle of a robot with keyboard inputs
+Utility : Simple ROS node to change the heading angle of a robot with keyboard inputs
+
+Platform : Tried on ROS Electric
