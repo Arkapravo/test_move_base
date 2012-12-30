@@ -4,6 +4,12 @@ Author : Koushik Kabiraj (koushik.atti@gmail.com)
 
 Simple ROS node to change the heading angle of a robot with keyboard inputs. 
 
+Running the node
+----------------
+The node can be run with the following command,
+
+_rosrun test_move_base test_node_
+
 Testing on simulators
 ----------------------
 * ROS Electric, stage simulator (version 3.2.2)  
