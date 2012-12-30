@@ -2,8 +2,17 @@ test_move_base
 ==============
 Author : Koushik Kabiraj (koushik.atti@gmail.com)
 
-Simple ROS node to change the heading angle of a robot with keyboard inputs. Developed and tested on ROS Electric (http://www.ros.org/wiki/electric), should work with most of the other ROS releases. 
+Simple ROS node to change the heading angle of a robot with keyboard inputs. 
 
-Tested on :   
-* Stage simulator (version 3.2.2, http://www.ros.org/wiki/stage)  
-* Roomba 561 robot (http://store.irobot.com/product/index.jsp?productId=3881236) via Roomba 500 node (http://www.ros.org/wiki/roomba_500_series).
+Testing on simulators
+----------------------
+* ROS Electric, stage simulator (version 3.2.2)  
+* ROS Fuerte, stage simulator (version 4.1.1) 
+
+![Image Alt](https://lh5.googleusercontent.com/-StZdbwcQ5JI/UN-YPzmSbRI/AAAAAAAACNQ/H1j_KmqoqFs/s748/k2.png)                      
+             
+![Image Alt](https://lh3.googleusercontent.com/-Y22pnM2GikE/UN-YPtPlXBI/AAAAAAAACNM/D_GSVS1M7Ug/s498/k1.png)
+
+Testing on real robots
+-----------------------
+* Roomba 561 robot via Roomba 500 node (http://www.ros.org/wiki/roomba_500_series).
